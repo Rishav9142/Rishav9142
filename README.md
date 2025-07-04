@@ -1,12 +1,7 @@
 
-<p align="center">
-  <img src="https://github.com/Rishav9142/Rishav/blob/master/20250417_201106_0000.png" alt="Banner" />
-</p>
 
 
-
-
-<h1 align="center">Hi 👋, I'm Rishav</h1>
+<h1 align="center">Hi , I'm Rishav</h1>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Y1NzdsbW95aHJuZzh6MW1wYWx1N3dqa3N1cmNnc2xyc2Z3ZTl0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 
